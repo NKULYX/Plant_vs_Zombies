@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Login</class>
+ <widget class="QWidget" name="Login">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>561</width>
+    <height>550</height>
+   </rect>
+  </property>
+  <property name="font">
+   <font>
+    <pointsize>15</pointsize>
+   </font>
+  </property>
+  <property name="windowTitle">
+   <string>Plants VS Zombies</string>
+  </property>
+  <property name="windowIcon">
+   <iconset resource="MAP.qrc">
+    <normaloff>:/map/images/Cover.png</normaloff>:/map/images/Cover.png</iconset>
+  </property>
+ </widget>
+ <resources>
+  <include location="MAP.qrc"/>
+ </resources>
+ <connections/>
+</ui>

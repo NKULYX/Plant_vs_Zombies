@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/map">
+        <file>images/MAP.png</file>
+        <file>images/Zombie.png</file>
+        <file>images/Pea_shooter.png</file>
+        <file>images/blank.png</file>
+        <file>images/shovel.png</file>
+        <file>images/Bucket_Zombie.png</file>
+        <file>images/Conehead_Zombie.png</file>
+        <file>images/Flag_Zombie.png</file>
+        <file>images/Potato_Mine.png</file>
+        <file>images/Repeater.png</file>
+        <file>images/Sun_flower.png</file>
+        <file>images/Wall_nut.png</file>
+        <file>images/Sun.png</file>
+        <file>images/Cherry_Bomb.png</file>
+        <file>images/able_Cherry_Bomb.png</file>
+        <file>images/able_Pea_shooter.png</file>
+        <file>images/able_Potato_Mine.png</file>
+        <file>images/able_Repeater.png</file>
+        <file>images/able_Sun_flower.png</file>
+        <file>images/able_Wall_nut.png</file>
+        <file>images/unable_Cherry_Bomb.png</file>
+        <file>images/unable_Pea_shooter.png</file>
+        <file>images/unable_Potato_Mine.png</file>
+        <file>images/unable_Sun_flower.png</file>
+        <file>images/unable_Wall_nut.png</file>
+        <file>images/unable_Repeater.png</file>
+        <file>images/Pea_Bullet.png</file>
+        <file>images/Bomb_Cherry.png</file>
+        <file>images/Bomb_Mine.png</file>
+        <file>images/Cover.png</file>
+        <file>images/login.png</file>
+        <file>images/gamelose.png</file>
+        <file>images/Win.png</file>
+    </qresource>
+</RCC>
